@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513597987 source:u:\projet info\eventdata\eventdata.c
+	"EventData.h"
+
+1513597970 u:\projet info\eventdata\eventdata.h
+
+1513597987 source:u:\projet info\eventdata\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EventData.h"
+
